@@ -1,3 +1,8 @@
+# React Auth Kit
+npm install react-auth-kit
+npm install @auth-kit/react-router
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
