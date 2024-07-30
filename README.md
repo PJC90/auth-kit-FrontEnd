@@ -1,6 +1,9 @@
 # React Auth Kit
-npm install react-auth-kit
-npm install @auth-kit/react-router
+🔑 Authentication Library for React Js for Token Based Auth with Json Web Token(JWT) 🔑
+
+dependencies:
+- 'npm install react-auth-kit'
+- 'npm install @auth-kit/react-router'
 
 
 # React + Vite
